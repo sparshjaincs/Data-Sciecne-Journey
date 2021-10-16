@@ -1,1 +1,1 @@
-# Data-Sciecne-Journey
+# Data Sciecne Journey

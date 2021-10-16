@@ -1,1 +1,1 @@
-# Data Sciecne Journey
+# Data Science Journey

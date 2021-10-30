@@ -3,7 +3,7 @@
 ### Hello Everyone,
 #### Welcome to this repository!!!
 
-You can find everything I have learned in my journey to learn data science here. I have included all my code samples, tools, projects, and documentation above. I hope you will find it useful. 
+You can find everything I have learned in my journey to master data science here. I have included all my code samples, tools, projects, and documentation above. I hope you will find it useful. 
 
 ## Notebooks
 1. [Numpy Tutorial](https://github.com/sparshjaincs/Data-Science-Journey/blob/master/Numpy.ipynb)

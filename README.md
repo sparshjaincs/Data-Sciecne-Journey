@@ -9,7 +9,42 @@ In addition, I developed a roadmap to help you learn everything you need to beco
 
 ## Content
 
-### [Introduction to Data Science](/)
+1. [Introduction to Data Science](https://github.com/sparshjaincs/Data-Science-Journey/blob/master/Introduction%20to%20Data%20Science/Introduction.md)
+
+2. [Data Analysis](/)
+   - Data Manipulation, Data Wrangling, Data Cleaning
+   - [Numpy : Numerical Python](/)
+   - [Pandas](/)
+   - [Matplotlib : Data Visualization](/)
+   - [Seaborn : Data Visualzation](/)
+   - [Web Scraping](/)
+   - [Sql for Data Analysis](/)
+
+3. [Mathematics for Data Science](/)
+   - Calculus 
+   - Linear Algebra 
+   - Probability 
+
+5. [Statistics for Data Science](/)
+   - Constructs | Population vs Sample | Correlation vs Causation | Hypotheses | Experimentation | Visualizing Data | Central Tendency | Variability | Standardizing | Normal and      Sampling Distribution | Estimating | Hypothesis Testing | T-Tests 
+
+6. Machine Learning
+   - Introduction
+   - Simple, Multiple, and Polynomial Linear Regression
+   - Logistic Regression
+   - KNearest Neighbors
+   - Support Vector Regression
+   - Decision Tree Regression 
+   - Random Forest Regression
+   - Support Vector Machine (SVM)
+   - Kernel SVM 
+   - Naive Bayes 
+   - Decision Tree Classification 
+   - K-Means Clustering 
+   - Hierarchical Clustering
+   - Apriori
+
+  
 
 
 

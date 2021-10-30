@@ -17,6 +17,7 @@ In addition, I developed a roadmap to help you learn everything you need to beco
    - [Pandas](/)
    - [Matplotlib : Data Visualization](/)
    - [Seaborn : Data Visualzation](/)
+   - [Regular Expressions](/)
    - [Web Scraping](/)
    - [Sql for Data Analysis](/)
 

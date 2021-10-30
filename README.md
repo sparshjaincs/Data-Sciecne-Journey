@@ -1,6 +1,6 @@
-# My Data Science Journey
+# My Data Science Journey✌️
 
-### Hello Everyone,
+### Hello Everyone👋👋,
 #### Welcome to this repository!!!
 
 You can find everything I have learned in my journey to master data science here. I have included all my code samples, tools, projects, and documentation above. I hope you will find it useful. 

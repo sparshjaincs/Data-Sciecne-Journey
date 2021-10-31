@@ -7,7 +7,7 @@ Here, you can find everything that I have learned in my journey to master data s
 
 In addition, I developed a roadmap to help you learn everything you need to become an expert in data science.
 
-## Content
+## Roadmap
 
 1. [Introduction to Data Science](https://github.com/sparshjaincs/Data-Science-Journey/blob/master/Introduction%20to%20Data%20Science/Introduction.md)
 
